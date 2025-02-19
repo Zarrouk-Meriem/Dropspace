@@ -1,0 +1,154 @@
+{
+  "files": [
+    {
+      "id": "1",
+      "dateCreated": "October 1, 2023",
+      "size": 80000000000,
+      "name": "file1.txt",
+      "type": "file",
+      "isStarred": false,
+      "dateStarred": "October 2, 2023",
+      "isArchived": false
+    },
+    {
+      "id": "2",
+      "dateCreated": "September 15, 2023",
+      "size": 2048,
+      "name": "image.png",
+      "type": "image",
+      "isStarred": false,
+      "isArchived": true,
+      "dateArchived": "September 20, 2023"
+    },
+    {
+      "id": "3",
+      "dateCreated": "August 20, 2023",
+      "size": 512,
+      "name": "document.pdf",
+      "type": "file",
+      "isStarred": false,
+      "dateStarred": "August 22, 2023",
+      "isArchived": true
+    },
+    {
+      "id": "4",
+      "dateCreated": "July 10, 2023",
+      "size": 40960000000,
+      "name": "video.mp4",
+      "type": "video",
+      "isStarred": false,
+      "isArchived": false
+    },
+    {
+      "id": "5",
+      "dateCreated": "June 5, 2023",
+      "size": 8192,
+      "name": "music.mp3",
+      "type": "file",
+      "isStarred": false,
+      "dateStarred": "June 7, 2023",
+      "isArchived": false,
+      "dateArchived": "June 10, 2023"
+    },
+    {
+      "id": "6",
+      "dateCreated": "May 12, 2023",
+      "size": 256,
+      "name": "spreadsheet.xlsx",
+      "type": "file",
+      "isStarred": false,
+      "isArchived": false
+    },
+    {
+      "id": "7",
+      "dateCreated": "April 18, 2023",
+      "size": 10240,
+      "name": "archive.zip",
+      "type": "file",
+      "isStarred": false,
+      "dateStarred": "April 20, 2023",
+      "isArchived": true,
+      "dateArchived": "April 22, 2023"
+    },
+    {
+      "id": "8",
+      "dateCreated": "March 22, 2023",
+      "size": 1536,
+      "name": "presentation.pptx",
+      "type": "file",
+      "isStarred": false,
+      "isArchived": false,
+      "undefined": true
+    },
+    {
+      "id": "9",
+      "dateCreated": "February 14, 2023",
+      "size": 3072,
+      "name": "code.js",
+      "type": "file",
+      "isStarred": true,
+      "dateStarred": "February 16, 2023",
+      "isArchived": true,
+      "undefined": true
+    },
+    {
+      "id": "10",
+      "dateCreated": "November 08, 2024",
+      "isArchived": false,
+      "isStarred": false,
+      "name": "cabin-007.jpg",
+      "size": 231604,
+      "type": "image"
+    },
+    {
+      "id": "11",
+      "dateCreated": "November 08, 2024",
+      "isArchived": false,
+      "isStarred": false,
+      "name": "cabin-001.jpg",
+      "size": 261067,
+      "type": "image"
+    },
+    {
+      "id": "12",
+      "dateCreated": "November 08, 2024",
+      "isArchived": false,
+      "isStarred": false,
+      "name": "cabin-005.jpg",
+      "size": 298446,
+      "type": "image"
+    },
+    {
+      "id": "13",
+      "dateCreated": "November 08, 2024",
+      "isArchived": false,
+      "isStarred": false,
+      "name": "cabin-008.jpg",
+      "size": 252747,
+      "type": "image"
+    },
+    {
+      "id": "14",
+      "dateCreated": "November 08, 2024",
+      "isArchived": false,
+      "isStarred": false,
+      "name": "cabin-006.jpg",
+      "size": 262253,
+      "type": "image"
+    },
+    {
+      "id": "15",
+      "dateCreated": "November 08, 2024",
+      "isArchived": false,
+      "isStarred": false,
+      "name": "data-guests.js",
+      "size": 5419,
+      "type": "text"
+    }
+  ],
+  "limits": {
+    "image": false,
+    "video": false,
+    "file": true
+  }
+}
